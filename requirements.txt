@@ -1,4 +1,5 @@
 annoy~=1.14.0
+gensim~=3.6.0
 git+https://github.com/kudkudak/word-embeddings-benchmarks@8fd0489
 matplotlib~=2.2.3
 pandas~=0.23.4
